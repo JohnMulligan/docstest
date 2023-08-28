@@ -1,10 +1,7 @@
 {
-  // Metadata about this manifest file
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "https://catalog.archives.gov/id/173891269?objectPage=211",
   "type": "Manifest",
-
-  // Descriptive metadata about the object/work
   "label": { "en": [ "Manifest of the Little Creole (a) Tetis 4/19/1830" ] },
   "metadata": [
     {
@@ -34,7 +31,8 @@
     {
       "label": { "en": [ "Linked Voyages" ] },
       "value": { "none": [ "<ul><li>https://www.slavevoyages.org/voyage/135096/variables</li></ul>" ] }
-    },
+    }
+],
   "thumbnail": [
     {
       "id": "https://catalog.archives.gov/iiif/3/lz%2Fpartnerships-0003%2F16-0922_US-NE_0001%2F0001%2F12-0888_US-MD_207%2F12-0888_US-MD_Slave-Ma-Roll-20-(Old-Roll-3B)-Outward-30-Oct-1828-1833%2F12-0888_US-MD_Slave-Ma-Roll-20-(Old-Roll-3B)-Outward-30-Oct-1828-1833_00211.jpg/full/300,300/0/default.jpg",
@@ -49,19 +47,16 @@
       ]
     }
   ],
-
-  // Presentation Information
-  "viewingDirection": "lef-to-right",
+  "viewingDirection": "left-to-right",
   "behavior": [ "paged" ],
   "navDate": "1830-04-19T00:00:00Z",
-  
-  // List of Canvases
   "items": [
     {
 		"id": "https://catalog.archives.gov/id/173891269?objectPage=211",
 		"type": "Canvas",
 		"label": { "none": [ "p. 1" ] },
-		{
+		"type": "AnnotationPage",
+		"items":{
 		  "@context": "http://iiif.io/api/presentation/3/context.json",
 		  "id": "https://catalog.archives.gov/id/173891269?objectPage=211",
 		  "type": "Annotation",
