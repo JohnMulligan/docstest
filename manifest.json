@@ -1,7 +1,7 @@
 {
   // Metadata about this manifest file
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://sv-docs.org/iiif/GIDP45XT/manifest",
+  "id": "https://catalog.archives.gov/id/173891269?objectPage=211",
   "type": "Manifest",
 
   // Descriptive metadata about the object/work
@@ -58,7 +58,7 @@
   // List of Canvases
   "items": [
     {
-		"id": "https://sv-docs.org/iiif/GIDP45XT/manifest",
+		"id": "https://catalog.archives.gov/id/173891269?objectPage=211",
 		"type": "Canvas",
 		"label": { "none": [ "p. 1" ] },
 		{
