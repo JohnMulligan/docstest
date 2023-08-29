@@ -26,11 +26,11 @@
     },
     {
       "label": { "en": [ "Citation" ] },
-      "value": { "none": [ "https://api.zotero.org/groups/4708800/items/GIDP45XT" ] }
+      "value": { "none": [ "<span><a href='https://api.zotero.org/groups/4708800/items/GIDP45XT'>Zotero Entry</a></span>" ] }
     },
     {
       "label": { "en": [ "Linked Voyages" ] },
-      "value": { "none": [ "<ul><li>https://www.slavevoyages.org/voyage/135096/variables</li></ul>" ] }
+      "value": { "none": [ "<span><a href='https://www.slavevoyages.org/voyage/135096/variables'>Voyage 135096</a></span>" ] }
     }
 ],
   "thumbnail": [
