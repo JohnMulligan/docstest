@@ -45,7 +45,7 @@
   "navDate": "1830-04-19T00:00:00Z",
   "items": [
     {
-		"id": "https://catalog.archives.gov/id/173891269?objectPage=211",
+		"id": "https://raw.githubusercontent.com/JohnMulligan/docstest/main/manifest.json",
 		"type": "Canvas",
 		"label": { "none": [ "p. 1" ] },
 		"type": "AnnotationPage",
