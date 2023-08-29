@@ -1,0 +1,42 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/JohnMulligan/docstest/main/manifest13.json",
+  "type": "Manifest",
+  "label": { "en": [ "Manifest of the Little Creole (a) Tetis 4/19/1830" ] },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/JohnMulligan/docstest/main/canvas/p1",
+      "type": "Canvas",
+      "height": 2641,
+      "width": 3784,
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/JohnMulligan/docstest/main/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/JohnMulligan/docstest/main/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://catalog.archives.gov/iiif/3/lz%2Fpartnerships-0003%2F16-0922_US-NE_0001%2F0001%2F12-0888_US-MD_207%2F12-0888_US-MD_Slave-Ma-Roll-20-%28Old-Roll-3B%29-Outward-30-Oct-1828-1833%2F12-0888_US-MD_Slave-Ma-Roll-20-%28Old-Roll-3B%29-Outward-30-Oct-1828-1833_00211.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2641,
+                "width": 3784,
+                "service": [
+                  {
+                    "id": "https://iiif.io/api/image/3.0/example/reference/918ecd18c2592080851777620de9bcb5-gottingen",
+                    "profile": "level1",
+                    "type": "ImageService3"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/JohnMulligan/docstest/main/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
