@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/JohnMulligan/docstest/main/manifest12.json",
+  "id": "https://raw.githubusercontent.com/JohnMulligan/docstest/main/manifest10.json",
   "type": "Manifest",
   "label": { "en": [ "Manifest of the Little Creole (a) Tetis 4/19/1830" ] },
   "items": [
