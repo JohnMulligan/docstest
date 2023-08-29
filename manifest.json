@@ -37,14 +37,7 @@
     {
       "id": "https://catalog.archives.gov/iiif/3/lz%2Fpartnerships-0003%2F16-0922_US-NE_0001%2F0001%2F12-0888_US-MD_207%2F12-0888_US-MD_Slave-Ma-Roll-20-(Old-Roll-3B)-Outward-30-Oct-1828-1833%2F12-0888_US-MD_Slave-Ma-Roll-20-(Old-Roll-3B)-Outward-30-Oct-1828-1833_00211.jpg/full/300,300/0/default.jpg",
       "type": "Image",
-      "format": "image/jpeg",
-      "service": [
-        {
-          "id": "https://example.org/iiif/book1/page1",
-          "type": "ImageService3",
-          "profile": "level1"
-        }
-      ]
+      "format": "image/jpeg"
     }
   ],
   "viewingDirection": "left-to-right",
