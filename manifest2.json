@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/JohnMulligan/docstest/main/manifest.json",
+  "id": "https://raw.githubusercontent.com/JohnMulligan/docstest/main/manifest2.json",
   "type": "Manifest",
   "label": { "en": [ "Manifest of the Little Creole (a) Tetis 4/19/1830" ] },
   "metadata": [
@@ -45,7 +45,7 @@
   "navDate": "1830-04-19T00:00:00Z",
   "items": [
     {
-		"id": "https://raw.githubusercontent.com/JohnMulligan/docstest/main/manifest.json",
+		"id": "https://raw.githubusercontent.com/JohnMulligan/docstest/main/manifest2.json",
 		"type": "Canvas",
 		"label": { "none": [ "p. 1" ] },
 		"type": "AnnotationPage",
