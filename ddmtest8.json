@@ -149,21 +149,16 @@
               "body": {
                 "type": "Image",
                 "format": "image/jpeg",
-                "id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll20/1596/full/1337,1920/0/default.jpg",
+                "id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll20/1598",
                 "width": 1337,
                 "height": 1920,
-                "tiles": [
-					{
-					  "scaleFactors": [
-						1,
-						2,
-						4,
-						8,
-						16
-					  ],
-					  "width": 256
-					}
-				  ]
+                "service": [
+                  {
+                    "id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll20/1598",
+                    "type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
               }
             }
           ]
