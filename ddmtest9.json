@@ -134,8 +134,8 @@
           ]
         }
       ],
-      "width": 1337,
-      "height": 1920,
+      "width": 7208,
+      "height": 10352,
       "items": [
         {
           "id": "https://daast.api/H7JQ96SR/canvas1/item1",
@@ -150,8 +150,8 @@
                 "type": "Image",
                 "format": "image/jpeg",
                 "id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll20/1598",
-                "width": 1337,
-                "height": 1920,
+                "width": 7208,
+                "height": 10352,
                 "service": [
                   {
                     "id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll20/1598",
