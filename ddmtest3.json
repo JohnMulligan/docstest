@@ -151,14 +151,7 @@
                 "format": "image/jpeg",
                 "id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll20/1596/full/max/0/default.jpg",
                 "width": 7208,
-                "height": 10352,
-                "service": [
-                  {
-                    "id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll20/1596",
-                    "type": "ImageService2",
-                    "profile": "level1"
-                  }
-                ]
+                "height": 10352
               }
             }
           ]
@@ -212,14 +205,7 @@
                 "format": "image/jpeg",
                 "id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll20/1597/full/max/0/default.jpg",
                 "width": 7423,
-                "height": 10484,
-                "service": [
-                  {
-                    "id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll20/1597",
-                    "type": "ImageService2",
-                    "profile": "level1"
-                  }
-                ]
+                "height": 10484
               }
             }
           ]
@@ -273,14 +259,7 @@
                 "format": "image/jpeg",
                 "id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll20/1598/full/max/0/default.jpg",
                 "width": 7208,
-                "height": 10352,
-                "service": [
-                  {
-                    "id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll20/1598",
-                    "type": "ImageService2",
-                    "profile": "level1"
-                  }
-                ]
+                "height": 10352
               }
             }
           ]
