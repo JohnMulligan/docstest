@@ -150,8 +150,8 @@
                 "type": "Image",
                 "format": "image/jpeg",
                 "id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll20/1596/full/max/0/default.jpg",
-                "width": 7208,
-                "height": 10352,
+                "width": 1337,
+                "height": 1920,
                 "tiles": [
 					{
 					  "scaleFactors": [
