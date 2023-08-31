@@ -149,15 +149,22 @@
               "body": {
                 "type": "Image",
                 "format": "image/jpeg",
-                "id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll20/1598",
+                "id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll20/1598/full/max/0/default.jpg",
                 "width": 7208,
                 "height": 10352,
                 "service": [
                   {
-                    "id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll20/1598",
-                    "type": "ImageService2",
-                    "profile": "level1"
-                  }
+					"@context": "http://iiif.io/api/image/2/context.json",
+					"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll20/1598/full/max/0/default.jpg",
+					"height": 7200,
+					"width": 5434,
+					"profile": [ "http://iiif.io/api/image/2/level2.json" ],
+					"protocol": "http://iiif.io/api/image",
+					"tiles": [{
+					  "scaleFactors": [ 1, 2, 4, 8, 16, 32 ],
+					  "width": 1024
+					}]
+				  }
                 ]
               }
             }
