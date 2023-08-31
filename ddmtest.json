@@ -1,0 +1,287 @@
+{
+  "type": "Manifest",
+  "metadata": [
+    {
+      "value": {
+        "en": [
+          "Correspondent: Nicoll (Mr)."
+        ]
+      },
+      "label": {
+        "en": [
+          "Title"
+        ]
+      }
+    },
+    {
+      "value": {
+        "en": [
+          "manuscript"
+        ]
+      },
+      "label": {
+        "en": [
+          "Type"
+        ]
+      }
+    },
+    {
+      "value": {
+        "en": [
+          "25 Mar 1724"
+        ]
+      },
+      "label": {
+        "en": [
+          "Date"
+        ]
+      }
+    },
+    {
+      "value": {
+        "en": [
+          "Volume 24 of ST 57"
+        ]
+      },
+      "label": {
+        "en": [
+          "Coverage"
+        ]
+      }
+    },
+    {
+      "value": {
+        "en": [
+          "mssST 57, v. 24"
+        ]
+      },
+      "label": {
+        "en": [
+          "Identifier"
+        ]
+      }
+    },
+    {
+      "value": {
+        "en": [
+          "For information on using Huntington Library materials, please see Reproductions of Huntington Library Holdings: https://www.huntington.org/library-rights-permissions"
+        ]
+      },
+      "label": {
+        "en": [
+          "Rights"
+        ]
+      }
+    },
+    {
+      "value": {
+        "en": [
+          "<span><a href='https://api.zotero.org/groups/4708800/items/H7JQ96SR'>Zotero Entry</a></span>"
+        ]
+      },
+      "label": {
+        "en": [
+          "Citation"
+        ]
+      }
+    }
+  ],
+  "id": "https://daast.api/H7JQ96SR",
+  "thumbnail": [
+    {
+      "id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll20/1596/full/300,300/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg"
+    }
+  ],
+  "viewingDirection": "left-to-right",
+  "behavior": [
+    "paged"
+  ],
+  "label": {
+    "en": [
+      "Correspondent: Nicoll (Mr)."
+    ]
+  },
+  "items": [
+    {
+      "type": "Canvas",
+      "thumbnail": [
+        {
+          "id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll20/1596/full/300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "id": "https://daast.api/H7JQ96SR/canvas1",
+      "annotations": [
+        {
+          "id": "https://daast.api/H7JQ96SR/canvas1/annopage1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://daast.api/H7JQ96SR/canvas1/annopage1/anno1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "target": "https://gist.githubusercontent.com/dellamonica/e4eb3e997606eb53f0453d56080e09c5/raw/canvas1",
+              "body": {
+                "language": "en",
+                "type": "TextualBody",
+                "value": "Sr James's syare 20th March 1724\nMr Ranidal Nicoll\nPor I desire you'l call upon me here to morner morning\nbetveen mine & teno Mh Cook I am Gooyo &\nLendin 25th March 1724\nMmmeadSor\nI desire you'l hansfer over to Mr James marye one\nthousand pounds Capt African Stock, which hi'll be at the African House\nto morter at 12, 0th Clock to receive & that you'l likewise sell 1000\nAfrican more & enedit my ket therewith the produce thereof & ams\nFor yo\nLendon 23h Manch 1724\nDrr Marges\nI have wnote to M Mead to tansfer to you the\n1000 Afr St. I desired you to sell & M Collicooe will wis wait upen\nyou in the Affernoon to deliver, you the acct signed & to take up the\nVouchers\nPust Sor\nYour very humble Servt\nvr Payne (of Burdgevater) Lenden March 27th 1724\nI have just received your Letter but have not time to\nanswer the particulars of it which I shall not fail to do in a post\nAt present I can only say in general that I am very\non two\nmuch surprised the Charge of the Buildings at Buydgewates should\ngheals\nso exceed the Asstimate you sent me atfirst & therefore\nmust desire you'l send me out of hand an acct Debtor & Creditor\nhen you have disposed of the money for which you have already\naddwn on me. I would not have you make any further\nDrafton me till you have dene this for if you it shall come\nprotested\nI am sor yo",
+                "format": "text/html"
+              }
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://daast.api/H7JQ96SR/canvas1/item1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://daast.api/H7JQ96SR/canvas1/item1/image1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://daast.api/H7JQ96SR/canvas1",
+              "body": {
+                "type": "Image",
+                "format": "image/jpeg",
+                "id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll20/1596/full/max/0/default.jpg",
+                "width": 7208,
+                "height": 10352,
+                "service": [
+                  {
+                    "id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll20/1596",
+                    "type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "thumbnail": [
+        {
+          "id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll20/1597/full/300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "id": "https://daast.api/H7JQ96SR/canvas2",
+      "annotations": [
+        {
+          "id": "https://daast.api/H7JQ96SR/canvas2/annopage1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://daast.api/H7JQ96SR/canvas2/annopage1/anno1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "target": "https://gist.githubusercontent.com/dellamonica/e4eb3e997606eb53f0453d56080e09c5/raw/canvas1",
+              "body": {
+                "language": "en",
+                "type": "TextualBody",
+                "value": "1\nCannons March 28th 1724\nMr Pescod\nSir\nI have pstaced the Favour of youns with the setter to\nthe Duke of Boulton returned. Since my last to you I have\nseen a Gentleman from him who has myde a propssal in his Behalf\nto me which I would be glad to know your opinion upon. He tells\nme my Lord hath an Estate at Kingscleas of between 4 & 500 £ pann\nupon which all the Lives are fallen in & which he offers me to fill\nup being willing to allow the Debt he owes me as a part of the Fire\nI desire you'l be sokind as to speak to Nor Cnoss to let me know\nwhat is ftts neal value and inform me what theee dives in it may\nbe wouth for if I can have it at a reasonable Rate, I shall be willing\nto make this punchase it being a means of considerably encceasing\nmy Rental & which seems to be the most likly method to get the\nDuke out of my Debt. I am Sor  go\nCannons March 28 1724\nMr Payne (of Burdgewattr\nSr\nSince, I cam down here I have had an Oppentunity\nof looking over your two Letters of the 14th & 22d Inst, and tho I\ndont question the Truth of what you say that you have spanddt\nno pains to get the Buildings I undertook fnisht agreeable to the\nAistimate yet I confess I cant but be supprised to find they\nhave proved so mnefectual nor can s imagine why you should have\nenlanged the Design of the Warehouse without ffrst of all takeing\nmy Dinectong upon it on at least without considering whether\nsuch an Enlargement would not paise the Expence to a Degree\nthe Gent\nabove wit would yeild when set would produce a Building\nInterest for: Apt this has hapned to be very much the Case for\nby the acct you have sent me (& in which by the byg it does not\nappear to me whether the wholes Expenceis contained or not\nthe sum already laid out upon it amounts to 771S you\not the wantouse\nsay you canet i at 100 pann, so that after that nate I shall\nreclive but 42& a year for near 8000 which is not sto0\nI must therefore as I acquainted you in\nfor my Money\nmy",
+                "format": "text/html"
+              }
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://daast.api/H7JQ96SR/canvas2/item1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://daast.api/H7JQ96SR/canvas2/item1/image1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://daast.api/H7JQ96SR/canvas2",
+              "body": {
+                "type": "Image",
+                "format": "image/jpeg",
+                "id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll20/1597/full/max/0/default.jpg",
+                "width": 7423,
+                "height": 10484,
+                "service": [
+                  {
+                    "id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll20/1597",
+                    "type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "thumbnail": [
+        {
+          "id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll20/1598/full/300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "id": "https://daast.api/H7JQ96SR/canvas3",
+      "annotations": [
+        {
+          "id": "https://daast.api/H7JQ96SR/canvas3/annopage1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://daast.api/H7JQ96SR/canvas3/annopage1/anno1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "target": "https://gist.githubusercontent.com/dellamonica/e4eb3e997606eb53f0453d56080e09c5/raw/canvas1",
+              "body": {
+                "language": "en",
+                "type": "TextualBody",
+                "value": "my last rehern back the Bill protested if it comes to my Hands which\nyou have drown for the p00S being determined not to pay any more\ntill I see what the acct of the whole amounts to be how it has been\nlaid out, in order to which I desire you'l send me up as soon as\nyour Leisure will permit you andentine acct of the whole Expence\ndebiting your self with what you have received & taking Credit\nfor the several payments you have made ranging them under their\nProper Heads, &lz Offacct of the Warehouse, On acct of the\nHouse & on acct of such other Corks as penhaps propenly\nbeling to neither of these: and you'l add at the Foot of it wc\nyou judge will be stise wanting to compleat the whole. Such an\nacct as this will be abundently more satisfactory the to have\nhd it it up ad I have had it hitherto dine.Mr onepant\nof it, & another Month another pant of it by which means\nI can makeneither Head now Pail of it noe be at a centainty\nwhen these will be an Ond either of the Cork on Charge\nWhat you propose in relation to building a Row of\nlittle Honser where the wall now stands & fill up the moat for\nlittle Gandens to en I believe may tuen very well to Accto: but\nI find Sr Thomas Hales does not care to Pant with the Pastre\nGround( adjoyning to it so that I must make the most I can of\nwhat I have salready\nI understand there are some of the Houses which are\nalready built upon this Ground that have not cost near 300 £\n& yet are very good ones, now can I conceive how mine should\nlost more unless it can be made appear that they are better built\n& will set at a better Rent. I am\nSor\nTo\nP:S: Wotwhthstanding what I have wrote about the\nRent of the Waretoud, I dent mean thereby that I would not\nhave you set the 3 for the Rent you mention for I think it\nis better to take that than to have it lye empty & get nothing\nby it",
+                "format": "text/html"
+              }
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://daast.api/H7JQ96SR/canvas3/item1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://daast.api/H7JQ96SR/canvas3/item1/image1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://daast.api/H7JQ96SR/canvas3",
+              "body": {
+                "type": "Image",
+                "format": "image/jpeg",
+                "id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll20/1598/full/max/0/default.jpg",
+                "width": 7208,
+                "height": 10352,
+                "service": [
+                  {
+                    "id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll20/1598",
+                    "type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "navDate": "1724-03-25T00:00:00Z",
+  "@context": "http://iiif.io/api/presentation/3/context.json"
+}
